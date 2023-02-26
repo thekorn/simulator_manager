@@ -1,5 +1,7 @@
 # flutter simulator manager
 
+![dart](https://github.com/thekorn/simulator_manager/actions/workflows/dart.yml/badge.svg)
+
 **NOTE: this project is still in a very early stage.**
 
 This package helps you to define a a common set of ios simulators and android
